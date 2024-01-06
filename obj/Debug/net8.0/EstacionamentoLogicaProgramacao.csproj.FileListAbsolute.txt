@@ -1,0 +1,14 @@
+D:\Admin\Documents\Programação\Cursos\dotNet\EstacionamentoLogicaProgramacao\bin\Debug\net8.0\EstacionamentoLogicaProgramacao.exe
+D:\Admin\Documents\Programação\Cursos\dotNet\EstacionamentoLogicaProgramacao\bin\Debug\net8.0\EstacionamentoLogicaProgramacao.deps.json
+D:\Admin\Documents\Programação\Cursos\dotNet\EstacionamentoLogicaProgramacao\bin\Debug\net8.0\EstacionamentoLogicaProgramacao.runtimeconfig.json
+D:\Admin\Documents\Programação\Cursos\dotNet\EstacionamentoLogicaProgramacao\bin\Debug\net8.0\EstacionamentoLogicaProgramacao.dll
+D:\Admin\Documents\Programação\Cursos\dotNet\EstacionamentoLogicaProgramacao\bin\Debug\net8.0\EstacionamentoLogicaProgramacao.pdb
+D:\Admin\Documents\Programação\Cursos\dotNet\EstacionamentoLogicaProgramacao\obj\Debug\net8.0\EstacionamentoLogicaProgramacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Admin\Documents\Programação\Cursos\dotNet\EstacionamentoLogicaProgramacao\obj\Debug\net8.0\EstacionamentoLogicaProgramacao.AssemblyInfoInputs.cache
+D:\Admin\Documents\Programação\Cursos\dotNet\EstacionamentoLogicaProgramacao\obj\Debug\net8.0\EstacionamentoLogicaProgramacao.AssemblyInfo.cs
+D:\Admin\Documents\Programação\Cursos\dotNet\EstacionamentoLogicaProgramacao\obj\Debug\net8.0\EstacionamentoLogicaProgramacao.csproj.CoreCompileInputs.cache
+D:\Admin\Documents\Programação\Cursos\dotNet\EstacionamentoLogicaProgramacao\obj\Debug\net8.0\EstacionamentoLogicaProgramacao.dll
+D:\Admin\Documents\Programação\Cursos\dotNet\EstacionamentoLogicaProgramacao\obj\Debug\net8.0\refint\EstacionamentoLogicaProgramacao.dll
+D:\Admin\Documents\Programação\Cursos\dotNet\EstacionamentoLogicaProgramacao\obj\Debug\net8.0\EstacionamentoLogicaProgramacao.pdb
+D:\Admin\Documents\Programação\Cursos\dotNet\EstacionamentoLogicaProgramacao\obj\Debug\net8.0\EstacionamentoLogicaProgramacao.genruntimeconfig.cache
+D:\Admin\Documents\Programação\Cursos\dotNet\EstacionamentoLogicaProgramacao\obj\Debug\net8.0\ref\EstacionamentoLogicaProgramacao.dll
